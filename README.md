@@ -35,3 +35,17 @@ sudo systemctl enable httpd
 - Security Groups Configuration
 - Linux Server Administration
 - Web Server Setup
+
+- ## Screenshots
+
+### VPC Architecture
+![VPC Architecture](vpc-architecture-diagram.png)
+
+### Security Group Rules
+![Security Group Rules](security-group-rules.png)
+
+### Terminal - SSH Connection & Commands
+![Terminal SSH Connection](terminal-ssh-connection.png)
+
+### Apache Web Server Running
+![Apache Web Server Running](apache-webserver-running.png)
